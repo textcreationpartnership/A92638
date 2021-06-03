@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of council in favours of the Laird of Strouane. Edinburgh, the ninteenth [sic] day of Apryll, 1683.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92638</idno><idno type="EEBO-CITATION">49202024</idno>
+  <idno type="VID">152986</idno>
+  <idno type="EEBO-PROQUEST">2240894274</idno>
+  
+            <idno type="STC">Wing S1450A</idno>
+            <idno type="STC">ESTC R229813</idno>
+            <idno type="OCLC">49202024</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152986)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2338:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of council in favours of the Laird of Strouane. Edinburgh, the ninteenth [sic] day of Apryll, 1683.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from item head.</note>
+                  <note>Two copies on reel.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lumber trade --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:152986:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>ACT Of <hi>Council</hi> in favours of the Laird of <hi>Strouane.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>EDINBƲRGH,</hi>
+                  <date>the ninteenth day of <hi>Apryll,</hi> 1683.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch, as it being represented to the Lords of His Majesties Privy Council, by a Petition given in to them, by <hi>Alexander Robertson</hi> of <hi>Strouane;</hi> That the Petitioner having a considerable Wood upon <hi>Lochrannoch,</hi> being thirty miles distance, or there<g ref="char:EOLhyphen"/>by from the Sea, or any Burgh Royal, which would have been unprofitable, or use<g ref="char:EOLhyphen"/>lesse to him, or the Countrey; if he had not, with great Expenses and Trouble caused Erect Saw-milnes, in which, these divers years past, there has been made the number of one hundred seventy and six thousand Dails, to the great benefit, and conveniency of the Countrey adjacent, besides the keeping of many Persons at work in the oods, and Milnes: And seing the Petitioner is necessitat to bring down his Cutted Timber by the Loch in Floats, for the space of ten or twelve miles, and that frequently, by the violence of Storms, and Spaits the Floats are broken, and thrown out, upon the several sides of the Loch, and over the Dame-head into the River of <hi>Timell,</hi> which joyns with <hi>Tey,</hi> and carried down the Rivers many miles, by the vio<g ref="char:EOLhyphen"/>lence of Storms, which gives occasion to the Countrey People, living upon the sides of the said Loch and Rivers, to size upon his Timber, thinking they would be no further lyable, then to a dead Spuilʒie; and many times, after the Supplicant has be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>towed his utmost coast, and has made his Timber, and Dails; broken and loose People in the Countrey, do fall upon, and carry the same away in the night time: So that the Petitioners Work is thereby likely to be broken, and ruined. And that upon the first day of <hi>July,</hi> 1675. Upon a Representation made by the Petitioner; the Council did grant an Act in the Petitioners Favours, against any such Invasion: As the Act in it self at more length bears; And which Act, was thereafter, upon severall Considerations stopped, and hath not hitherto taken effect. And whereas the Petitioners Timber, and Dails have been, and are still carried away, and taken up in manner foresaid, to his great hurt and prejudice, unless the said Act be renewed whereby he may have Redress against the Offenders, and Transgressours of the said Act; Therefore humblie Supplicating, That the Council would revive, and renew the foresaid Act, granted in the Petitioners favours, and would give him such fur<g ref="char:EOLhyphen"/>ther Incouragement, for advancement of the said Publick Work, as they shall think fit. And particularly, that they would intrust him with the oversight of Repairing of the High-wayes, betwixt his Saw-milne in <hi>Carrie</hi> and <hi>Apna<g ref="char:EOLhyphen"/>dull,</hi> and to appoint him Over-seer for the High-wayes, from his Milnes and Woods towards St <hi>Johnstoun.</hi> The Lords of His Majesties Privy Councill, having heard and considered the foresaid Petition, Do hereby Revive, and Renew the foresaid Act of Councill of the first day of <hi>July,</hi> 1675. And Ordains the same to be put in Execution, not<g ref="char:EOLhyphen"/>withstanding of any <hi>Posterior</hi> stop given thereto. And do Prohibit, and Discharge all Persons, to Meddle, or In<g ref="char:EOLhyphen"/>tromet with the Petitioners Floats of Timber, as they come down the <hi>Lochrannoch,</hi> or the Waters of <hi>Timell,</hi> or <hi>Tey,</hi> as they will be Answerable. And incase any of the said Timber, be, by Storms cast out of the Loch, or Ri<g ref="char:EOLhyphen"/>vers foresaids; do hereby Ordain the same to be restored back, by the Intrometters therewith, to the Supplicant, Certifying all who shall keep up the same, for every Cut, or Tree so detained, they shall not only be lyable in the just Value thereof; But also in the Sum of Ten Merks <hi>Scots</hi> monie, to be payed to him: Certifing also, all such Persons, as shall presume to meddle with, or away take any of the Petitioners Dails after the same are made, That they shall be lyable in the Penalty foresaid, bes<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de the Value thereof, and be pursued therefore, before His Maj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sties Privy Councill, Sheriff of the Shyre, and his Deputs, or any other Judge competent, as the Petitioner shall think fit. And for the Petitioners further Incouragement, The saids Lords do Impower, and Intrust him with the Over-sight of Repairing of the High-wayes betwixt his Saw-milne in the <hi>Carrie,</hi> and <hi>Apnadull.</hi> And Ordains his Name to be Insert in the Proclamation anent High-wayes and Bridges as Over-seer for Repairing the High-wayes from his saids Milnes and Woods, towards St. <hi>Johnstoun.</hi> And do give warrand to the Petitioner, to cause Publicati<g ref="char:EOLhyphen"/>on, and Intimation be made hereof, at the Mercat Cross of <hi>Perth,</hi> and paroch Kirkes next adjacent, and other Places needfull, That none pretend ignorance.</p>
+            <closer>
+               <signed>Extractum per me WILL. PATERSON. Cls. Sti. Concilij.</signed>
+               <lb/> GOD save the KING.</closer>
+            <pb facs="tcp:152986:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
